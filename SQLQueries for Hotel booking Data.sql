@@ -1,4 +1,4 @@
--- we use union query to join the hotel data from 2018 to 2020
+-- we use union query to merge the hotel data from 2018 to 2020
 
 select * from dbo.['2018$']
 union
