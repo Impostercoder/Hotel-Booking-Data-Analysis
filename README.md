@@ -10,3 +10,6 @@ In this dummy project I imported a dataset from excel to SQL to power bi for ana
 
 3) What trends can we see in the data?
 - We focus on average daily rates and guests to explore seasonality.
+
+
+NOTE: I made this project with the help of a youtube tutorial by Absent Data, Here's the link to his channel https://www.youtube.com/@absentdata/videos
